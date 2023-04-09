@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPILabTaskNumberOfPipesOnTheActiveView.dll"</Assembly>
+		<AddInId>9C33F26D-0188-4C07-B432-55AE6B9BB130</AddInId>
+		<FullClassName>RevitAPILabTaskNumberOfPipesOnTheActiveView.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Приложение для PipesOnTheActiveView</Text>
+	</AddIn>
+</RevitAddIns>
